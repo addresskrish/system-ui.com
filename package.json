@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "Brent Jackson <jxnblk@gmail.com>",
   "license": "MIT",
-  "devDepencencies": {
+  "devDependencies": {
     "capture-website-cli": "^0.3.1"
   },
   "dependencies": {
